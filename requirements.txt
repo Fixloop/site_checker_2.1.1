@@ -1,0 +1,7 @@
+urllib3~=1.26.4
+idna~=2.10
+tldextract~=3.1.0
+openpyxl~=3.0.7
+pycurl~=7.43.0.5
+validators~=0.18.2
+certifi~=2020.12.5
